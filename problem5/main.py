@@ -1,6 +1,6 @@
 def max_sequence(arr):
-    # return 0
-    max_sum = float('-inf')  # Inisialisasi dengan nilai negatif tak terhingga
+
+    max_sum = float('-inf')
     current_sum = 0
 
     for num in arr:
